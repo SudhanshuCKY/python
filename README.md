@@ -11,3 +11,4 @@ Basics:
 6. Write code to take input from user and print it on screen.
 7. Program a calculator that takes input from user and do basic calculations using different operators.
 8. Swap two values using a third variable.
+9. Calculate the area of a  right angled triangle.
